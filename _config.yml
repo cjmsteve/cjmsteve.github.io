@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "최재민"
-  avatar           : "/assets/images/me.jpg"
+  avatar           : "../assets/images/me.jpg"
   bio              : "I am an **amazing** person."
   location         : "korea"
   email            : "cjmsteve@naver.com"
